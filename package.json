@@ -1,0 +1,15 @@
+{
+  "name": "wepack-practise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin":{
+    "pack":"./script/src/index.js"
+  },
+  "scripts": {
+    "start":"node script/test/test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
